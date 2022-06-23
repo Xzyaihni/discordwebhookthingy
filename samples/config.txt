@@ -1,0 +1,16 @@
+{
+{daily, 15:45},
+{message, "test test one two three"}
+}
+
+{
+{daily, 16:20},
+{name, namehere},
+{message, test}
+}
+
+{
+{daily, 16:20},
+{name, "a different name"},
+{message, coolmessage}
+}
